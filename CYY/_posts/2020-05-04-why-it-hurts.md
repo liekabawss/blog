@@ -10,6 +10,12 @@ So why does it hurt so much if I know that she wasn't the best for me?
 
 Maybe it's because I noticed how she slowly distanced herself from me. I stopped getting tagged in posts, I stopped getting messages from her about memes, and I stopped getting her laugh. Goodnight texts with love and emojis turned into goodnight texts without saying I love you, and eventually just "gn." I told her it was important to me, and I guess she started doing it again, if just for a little while.
 
+Maybe it's because she didn't ever want me to go to SF to visit her, even when I was more than willing to travel the distance.
+
+Maybe it's because she wouldn't invite me to hang out with her group of friends in SF, or her family, because it would be awkward. It made me miserable knowing that she felt, on some level, ashamed of me. I asked her multiple times to set up something, at one point almost begging her to do so. But she never did.
+
+Maybe it's because I wasn't on any of her social media, even after I implored her to put me on there. I was proud to call her my girlfriend, and every time I saw her, felt lucky that she was mine. But I got the sense that she didn't think the same.
+
 Maybe it's because when she asked for a break in our relationship, she would keep saying that she loved me more, even when it obviously wasn't the case.
 
 Maybe it's because she told me that she might have been crushing on someone else she met at pool hall, a stranger. I tried to be calm and collected as I talked to her about it, but behind the facade, I barely held it together. Those words broke my heart, but I continued to trust that she wouldn't do that to me. Or, if she did, at least she would tell me about it.

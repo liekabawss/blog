@@ -8,6 +8,8 @@ date:   2020-05-04 00:00:00 -0500
 
 So why does it hurt so much if I know that she wasn't the best for me?
 
+Maybe it's because the good moments made me feel so high that they cast a shadow on all of the bad moments.
+
 Maybe it's because I noticed how she slowly distanced herself from me. I stopped getting tagged in posts, I stopped getting messages from her about memes, and I stopped getting her laugh. Goodnight texts with love and emojis turned into goodnight texts without saying I love you, and eventually just "gn." I told her it was important to me, and I guess she started doing it again, if just for a little while.
 
 Maybe it's because she didn't ever want me to go to SF to visit her, even when I was more than willing to travel the distance.

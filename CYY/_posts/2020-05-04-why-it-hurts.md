@@ -20,7 +20,7 @@ Maybe it's because she wouldn't invite me to hang out with her group of friends 
 
 Maybe it's because I wasn't on any of her social media, even after I implored her to put me on there. I was proud to call her my girlfriend, and every time I saw her, felt lucky that she was mine. But I got the sense that she didn't think the same.
 
-Maybe it's because when she asked for a break in our relationship, she would keep saying that she loved me more, even when it obviously wasn't the case.
+Maybe it's because when she asked for a break in our relationship, she would keep saying that she loved me more, even when it obviously wasn't the case. Maybe she sincerely believed that? But when she didn't want to be with me as much as I wanted to be with her, each time those words left her mouth it felt as if she twisted the knife just a bit more. They had no weight to them; they were hollow.
 
 Maybe it's because she told me that she might have been crushing on someone else she met at pool hall, a stranger. I tried to be calm and collected as I talked to her about it, but behind the facade, I barely held it together. Those words broke my heart, but I continued to trust that she wouldn't do that to me. Or, if she did, at least she would tell me about it.
 

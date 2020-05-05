@@ -14,3 +14,4 @@ Songs are great, and here are some I listened on repeat haha:
 4. SHAUN: [*Bad Habits*](https://open.spotify.com/track/4QUjn6cprNKiyA8dMTOQ33?si=qibP6f4YS9ajQLoTHVNCXA) (:musical_note: wish I could let you go :musical_note:)
 5. Eric Nam: [*Congratulations*](https://open.spotify.com/track/20Mw2qqWcGSCRFmKsa2nad?si=G9e7vBqCTcSwgAHrOlvEVA) (lol simp)
 6. Eric Nam: [*Miss You*](https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ?si=krYrtJ4wRzGyrWdb7hrd7w)
+7. Eric Nam: [*Come Through*](https://open.spotify.com/track/3Brd4NDZNrdrPZtN7rVZZT?si=L_W-k0ffTqW1lFelDA7dOA) (tbh just listen to the whole album, that shit's fire)

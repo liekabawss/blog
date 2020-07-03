@@ -6,7 +6,7 @@ icon: fa-angle-double-left
 date:   2020-05-04 00:00:00 -0500
 ---
 
-So why does it hurt so much if I know that she wasn't the best for me? why does it hurt so much if I know that some of the things she did was toxic and unhealthy for me?
+So why does it hurt so much if I know that she wasn't the best for me? Why does it hurt so much if I know that some of the things she did was toxic and unhealthy for me?
 
 Maybe it's because I wanted to put in the work and effort to get past our differences, and she decided I wasn't worth it. Not that I can blame her for doing what she thinks is best for her, but it still sucks.
 

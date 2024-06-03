@@ -31,11 +31,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nathan's Blog
-subtitle: My private thoughts and shit.
+subtitle: My private thoughts and shit!
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal blog of Nathan.
 author: Nathan
-email: nyu1997@gmail.com
+email:
 avatar: assets/images/capoo.jpg
 
 # You'll want to customize url and baseurl for your own site:

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: cyy_post
 title:  "Heartbreak"
 subtitle: "the story from my side"
 icon: fa-heart-broken
 date:   2020-05-01 00:00:00 -0500
+tags: cyy
 ---
 
 It's really interesting how the heart works. Your mind can be completely

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: cyy_post
 title:  "Why it Hurts"
 subtitle: "it hits different when she moves on so fast"
 icon: fa-angle-double-left
 date:   2020-05-04 00:00:00 -0500
+tags: cyy
 ---
 
 So why does it hurt so much if I know that she wasn't the best for me? Why does it hurt so much if I know that some of the things she did was toxic and unhealthy for me?

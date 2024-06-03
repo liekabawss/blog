@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: cyy_post
 title:  "Us"
 subtitle: "my insecurity"
 icon: fa-heartbeat
 date:   2020-08-17 00:00:00 -0500
+tags: cyy
 ---
 
 Hey. Hey you.

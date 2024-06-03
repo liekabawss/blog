@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{%- include header.html -%}
+{%- assign _posts = site.posts | sort: 'date' -%}
+{%- include header_page.html scrolly_nav=_posts -%}
 
 <!-- Main -->
 <div id="main">

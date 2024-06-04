@@ -1,9 +1,9 @@
 ---
 layout: cyy_post
-title:  "My Thoughts"
+title: "My Thoughts"
 subtitle: "things I see looking back"
 icon: fa-meh-blank
-date:   2020-05-03 00:00:02 -0500
+date: 2020-05-03 00:00:02 -0500
 tags: cyy
 ---
 

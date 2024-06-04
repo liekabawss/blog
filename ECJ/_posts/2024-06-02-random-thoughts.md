@@ -1,6 +1,6 @@
 ---
 layout: ecj_post
-title:  "Random Thoughts"
+title: "Random Thoughts"
 subtitle: "lol"
 icon: fa-meh-blank
 date: 2024-06-02 00:00:04 -0500

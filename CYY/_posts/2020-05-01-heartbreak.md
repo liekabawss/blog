@@ -1,9 +1,9 @@
 ---
 layout: cyy_post
-title:  "Heartbreak"
+title: "Heartbreak"
 subtitle: "the story from my side"
 icon: fa-heart-broken
-date:   2020-05-01 00:00:00 -0500
+date: 2020-05-01 00:00:00 -0500
 tags: cyy
 ---
 
